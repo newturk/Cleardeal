@@ -265,10 +265,10 @@ docker-compose up --build
 
 ## 📞 **Contact**
 
-**Author**: [Your Name]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**GitHub**: [Your GitHub Repository]  
-**Email**: [Your Email]
+**Author**: Shubham Kumar
+**LinkedIn**: https://www.linkedin.com/in/hasteturtle
+**GitHub**: https://github.com/newturk  
+**Email**: shubhamkumar831015@gmail.com
 
 ---
 
